@@ -74,7 +74,7 @@ private:
     void loadChats();
     QString storagePath() const;
 
-    QString apiKey  = "sk-hub-LkwewIfXQUfAcbApSRROpvP0cBRmAYjZ";
+    QString apiKey  = "sk-hub";
     QString baseUrl = "https://api.claudehub.fun";
     QString model   = "claude-opus-5";
     QString modelDisplayName = "Claude Opus 5";
